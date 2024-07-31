@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+        "agenda": "^5.0.0",
+        "express": "^4.19.2",
+        "node-fetch": "^3.3.2",
+        "redis": "^4.7.0"
+    }
+}
